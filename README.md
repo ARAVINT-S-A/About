@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ARAVINT-S-A
-- 👀 I’m interested in computer science,app dev,blockchain and stuff
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in ethical hacking,game dev,machine learning and cp
+- 🌱 I’m currently learning machine learning
 
